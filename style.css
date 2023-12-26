@@ -1,0 +1,15 @@
+body{
+    background-color: rgb(148, 179, 247);
+}
+.dgvc{
+    text-align: center;
+    font-family:'Times New Roman';
+
+}
+h1{
+    text-emphasis-color: rgb(181, 181, 252);
+}
+.left h1{
+    background-color:white;
+    
+}
